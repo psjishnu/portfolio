@@ -79,7 +79,7 @@ const HomePage = () => {
                 id="view"
                 className="button_about"
                 target="_blank"
-                href=""
+                href="https://github.com/psjishnu/portfolio/raw/master/public/Jishnu_resume.pdf"
               >
                 {" "}
                 View Resume{" "}
