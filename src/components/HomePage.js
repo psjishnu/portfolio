@@ -5,7 +5,7 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import Animate from "./animation";
 import Skils from "./skils/Skills";
-
+const PHOTO = require("./assets/jishnu.jpg");
 const HomePage = () => {
   useEffect(() => {
     Aos.init({ duration: 2000 });
@@ -52,6 +52,9 @@ const HomePage = () => {
       <section id="about" className="p-0">
         <div className="container ">
           <h2 className="about_title ">About me</h2>
+          <div className="photodiv">
+            <img src={PHOTO} className="profilephoto" alt="profile"></img>
+          </div>
           <div
             data-aos="fade-right"
             data-aos-delay="100"
@@ -62,11 +65,11 @@ const HomePage = () => {
               India, who is more interested in Frontend Development.
               <br></br>
               <br></br>
-              Despite my preferences, I always try to keep up to
-              date with other programming languages and frameworks so that I can
-              keep improving my knowledge and skills. I believe in always
-              choosing the best technology for the job, even if we need to get
-              out of our comfort zone.
+              Despite my preferences, I always try to keep up to date with other
+              programming languages and frameworks so that I can keep improving
+              my knowledge and skills. I believe in always choosing the best
+              technology for the job, even if we need to get out of our comfort
+              zone.
               <br></br>
               <br></br>I have a strong focus on software quality and clean code.
               <br></br>

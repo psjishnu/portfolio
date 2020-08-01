@@ -266,6 +266,19 @@ section {
   background-position: left bottom;
 }
 
+.profilephoto {
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+  margin: 0px auto;
+}
+
+.photodiv {
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
 #contact {
   background-color: #f5d020;
   background-image: linear-gradient(315deg, #f5d020 0%, #f53803 74%);
@@ -400,6 +413,10 @@ section {
 @media screen and (min-width: 600px) {
   .wrap_iamge_project {
     height: 300px;
+  }
+  .profilephoto {
+    width: 200px;
+    height: 200px;
   }
 }
 
