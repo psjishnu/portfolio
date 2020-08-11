@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import "../styles/main_style.css";
-
 import Aos from "aos";
 import "aos/dist/aos.css";
 import Animate from "./animation";
@@ -13,7 +12,7 @@ const HomePage = () => {
   return (
     <div>
       <div id="wrap_home_page" className="jumbotron">
-        <div class="container">
+        <div className="container">
           <Animate />
           <h1
             className="home_page-title animated bounceInLeft  delay-.9s"

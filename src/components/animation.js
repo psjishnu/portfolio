@@ -7,18 +7,18 @@ const Animate = () => {
     <div>
       <div id="sky" data-aos="fade-right">
         <div id="stars">
-          <div class="star">·</div>
-          <div class="star">·</div>
-          <div class="star">·</div>
-          <div class="star">·</div>
-          <div class="star">·</div>
-          <div class="star">·</div>
-          <div class="star">·</div>
-          <div class="star">·</div>
-          <div class="star">·</div>
-          <div class="star">·</div>
-          <div class="star">·</div>
-          <div class="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
+          <div className="star">·</div>
         </div>
       </div>
     </div>
