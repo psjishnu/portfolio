@@ -152,7 +152,7 @@ const HomePage = () => {
                   <h4 className="project_name">Covid-19 Chatbot and Survey</h4>
                   <p className="par_project">
                     A platform for Ashaworkers to do survey in easier way and an
-                    intergrated chatbot for commonfolk .
+                    integrated chatbot for commonfolk .
                   </p>
                   <div className="d-flex">
                     <div className=" d-flex justify-content-center justify-content-sm-start  ">
