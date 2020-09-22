@@ -36,6 +36,7 @@ const App = () => {
 
   useEffect(() => {
     listenToScrollEvent();
+    // eslint-disable-next-line 
   }, []);
 
   return (
