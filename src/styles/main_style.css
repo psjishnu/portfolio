@@ -402,6 +402,14 @@ section {
 .chatbot:hover {
   background-image: url("../components/assets/Survey.PNG");
 }
+
+.skosh {
+  background-image: url("../components/assets/skosh1.png");
+}
+
+.skosh:hover {
+  background-image: url("../components/assets/skosh2.png");
+}
 .openmessenger {
   background-image: url("../components/assets/OpenMessenger1.png");
 }

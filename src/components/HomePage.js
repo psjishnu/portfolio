@@ -147,6 +147,57 @@ const HomePage = () => {
                   </a>
                 </div>
               </div>
+
+              <div className=" row m-0  mb-1 mb-md-5">
+                <div className="col-lg-4 col-sm-12 pb-2 " data-aos="fade-right">
+                  <h4 className="project_name">
+                    Skosh (Online restaurant App)
+                  </h4>
+                  <p className="par_project">
+                    A platform like zomato for adding restaurant details,dishes
+                    and customers can buy food items from the platform .
+                    <br></br>
+                    (Restaurant Owner side )
+                  </p>
+                  <div className="d-flex">
+                    <div className=" d-flex justify-content-center justify-content-sm-start  ">
+                      <a
+                        className="button_Project"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        href="https://skosh.netlify.com/"
+                      >
+                        {" "}
+                        See Live{" "}
+                      </a>
+                    </div>
+                    <div className=" d-flex justify-content-center justify-content-sm-start  ">
+                      <a
+                        className="githubicon"
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        href="https://github.com/Delivery-System-App/restaurant_fe"
+                      >
+                        <i className="icon_footer mx-1 fab fa-github-square"></i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="col-lg-8 col-sm-12 wrap_iamge_project">
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="https://skosh.netlify.com/"
+                  >
+                    <div
+                      className="mt-5  skosh image_project img_project"
+                      data-aos="fade-left"
+                    ></div>
+                  </a>
+                </div>
+              </div>
+
               <div className=" row m-0  mb-1 mb-md-5">
                 <div className="col-lg-4 col-sm-12 pb-2 " data-aos="fade-right">
                   <h4 className="project_name">Covid-19 Chatbot and Survey</h4>
