@@ -165,7 +165,7 @@ const HomePage = () => {
                         className="button_Project"
                         rel="noopener noreferrer"
                         target="_blank"
-                        href="https://skosh.netlify.com/"
+                        href="https://skosh.netlify.app/"
                       >
                         {" "}
                         See Live{" "}
@@ -188,7 +188,7 @@ const HomePage = () => {
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://skosh.netlify.com/"
+                    href="https://skosh.netlify.app/"
                   >
                     <div
                       className="mt-5  skosh image_project img_project"
