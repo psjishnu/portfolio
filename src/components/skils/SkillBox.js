@@ -7,10 +7,8 @@ const SkillBox = ({ skills, title, icon }) => {
       <div className=" skills-block   mb-5 mb-3 mb-lg-0">
         <div className="inner-skills">
           <h6>{title}</h6>
-
           <SingleSkill skills={skills} />
         </div>
-
         <div className="circle_logo">
           <i className={icon} data-aos="flip-left"></i>
         </div>
