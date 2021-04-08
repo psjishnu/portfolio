@@ -12,10 +12,10 @@ const Skils = () => {
   ];
   const Backend = ["Node.js", "Python", "mySQL/MongoDB", "Express", "Nestjs"];
   const Others = [
-    "Git",
+    "Cloud (Azure)",
     "Visual Studio Code",
     "Postman",
-    "Heroku",
+    "Heroku/Netlify",
     "C/C++/Java",
   ];
 
