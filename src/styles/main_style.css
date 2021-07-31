@@ -418,6 +418,13 @@ section {
 .openmessenger:hover {
   background-image: url("../components/assets/OpenMessenger2.png");
 }
+.mitsweb {
+  background-image: url("../components/assets/mitsweb1.png");
+}
+
+.mitsweb:hover {
+  background-image: url("../components/assets/mitsweb2.png");
+}
 
 @media screen and (min-width: 600px) {
   .wrap_iamge_project {
