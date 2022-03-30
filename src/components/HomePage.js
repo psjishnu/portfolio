@@ -21,7 +21,7 @@ const HomePage = () => {
             data-sr-id="4"
           >
             Hello, my name is
-            <span className="primary-color-text">Jishnu P S</span>
+            <span className="primary-color-text"> Jishnu P S</span>
             <br />
             and I'm a Full-Stack Developer.
           </h1>
